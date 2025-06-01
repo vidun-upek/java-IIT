@@ -7,4 +7,5 @@ public static void wordTake(){
     public static void main(String[] args){
         wordTake();
     }
+    System.out.println("Hi");
 }
